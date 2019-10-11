@@ -1,0 +1,29 @@
+{
+  "name": "jest-example",
+  "version": "1.0.0",
+  "description": "jest-example",
+  "author": "AGUMIN",
+  "license": "ISC",
+  "scripts": {
+    "start": "ts-node src/index.ts",
+    "test": "jest",
+    "build": "tsc src/index.ts"
+  },
+  "dependencies": {},
+  "devDependencies": {
+    "@types/jest": "^24.0.17",
+    "jest": "^24.9.0",
+    "nodemon": "^1.19.1",
+    "ts-jest": "^24.0.2",
+    "ts-node": "^8.3.0",
+    "typescript": "^3.5.3"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ljlm0402/test.git"
+  },
+  "bugs": {
+    "url": "https://github.com/ljlm0402/test/issues"
+  },
+  "homepage": "https://github.com/ljlm0402/test#readme"
+}
