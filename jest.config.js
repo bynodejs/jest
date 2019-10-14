@@ -8,6 +8,11 @@ module.exports = {
       diagnostics: {
         pathRegex: /\.(spec|test)\.ts$/
       }
+    },
+    "jest": {
+      diagnostics: {
+        pathRegex: /\.(spec|test)\.js$/
+      }
     }
   }
 };

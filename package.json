@@ -9,7 +9,9 @@
     "test": "jest",
     "build": "tsc src/index.ts"
   },
-  "dependencies": {},
+  "dependencies": {
+    "axios": "^0.19.0"
+  },
   "devDependencies": {
     "@types/jest": "^24.0.17",
     "jest": "^24.9.0",

@@ -3,7 +3,9 @@
         "noImplicitAny": false,
         "noEmitOnError": true,
         "removeComments": false,
+        "esModuleInterop": true,
         "sourceMap": true,
+        "moduleResolution": "node",
         "target": "es2015"
     }
 }
