@@ -23,4 +23,4 @@ Link
 
 * <a href="https://ljlm0402.netlify.com/nodejs/jest.3/">Jest 3탄, 테스트 전/후 처리하기</a>
 
-* <a href="https://ljlm0402.netlify.com/nodejs/jest.4/">Jest 4탄, Mock: fn(), spyOn()</a>
+* <a href="https://ljlm0402.netlify.com/nodejs/jest.4/">Jest 4탄, Mocking: fn(), spyOn()</a>
